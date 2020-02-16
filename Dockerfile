@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM ubuntu:bionic
 LABEL maintainer="Paolo Velati"
 
 # Set noninteractive only at build-time
